@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @derzierau
-- 👀 I’m interested in learning and delivering nice product.
+- 👀 I’m interested in learning and delivering nice products.
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on everything related to JavaScript 
 - 📫 How to reach me create a PR, just kidding write an email to contact@olezierau.de
